@@ -1,0 +1,6 @@
+[submodule "client1"]
+	path = client1
+	url = https://github.com/Shahil9728/TradingsterFrontend
+[submodule "server1"]
+	path = server1
+	url = https://github.com/Shahil9728/TradingsterBackend
